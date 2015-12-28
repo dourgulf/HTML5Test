@@ -1,1 +1,1 @@
-updateSales(["key":"value"])
+updateSales({"key":"value"})
